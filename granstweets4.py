@@ -3,7 +3,7 @@ import pandas as pd
 import matplotlib.pyplot as plt
 import re
 
-tweets_data_path = 'grainstweets_v17.txt'
+tweets_data_path = '1_18.txt'
 tweets_data = []
 tweets_file = open(tweets_data_path, "r")
 
